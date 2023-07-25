@@ -1,0 +1,76 @@
+body 
+{
+    background-position: center;
+    background-size: cover;
+}
+
+.heading
+{
+    width: 100%;
+    background-color: rgba(0, 250, 154, 0.731);
+    color: black !important;
+}
+
+.heading h1
+{
+    margin-left: 15%;
+    display: inline;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 200;
+    color: rgb(0, 0, 0);
+}
+
+#instruction_b
+{
+    float: right;
+    background-color: rgb(15, 177, 236);
+    font-size: 23px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    color: rgb(255, 255, 255);
+
+}
+
+.big_image
+{
+    width: 100%;
+}
+
+#start
+{
+    width: 100px;
+    font-size: 21px;
+    background-color: aquamarine;
+    font-weight: 300;
+}
+
+#status
+{
+    font-size: 21px;
+}
+
+h4
+{
+    color: crimson;
+    line-height: 6px;
+    margin: 0px;
+}
+
+.modal-dialog
+{
+    width: 90%;
+}
+
+.instruction_image
+{
+    display: inline-block;
+    width: 45%;
+}
+
+video
+{
+    background: url('game_console.png');
+    background-size: cover;
+    background-position: center;
+    padding: 25px;
+}
